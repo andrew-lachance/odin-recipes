@@ -1,0 +1,23 @@
+h1{
+  text-decoration-line: underline;
+  background-color: aquamarine;
+  text-shadow: 0 0 23px rgba(1, 96, 116, 1);
+  text-transform: uppercase;
+  text-indent: 100px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 80px;
+  color: red;
+  box-shadow: 33px;
+}
+
+.link{
+  font-family: 'Anonymous Pro', 'Courier', monospace;
+  font-size: 40px;
+  font-weight: 100;
+  color: limegreen;
+  text-shadow: 0 0 10px black;
+  text-decoration: underline overline red 10px;
+  line-height: 200%;
+}
+
+html {background-color: darkslategray;}
